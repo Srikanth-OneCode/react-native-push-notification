@@ -1,7 +1,7 @@
-"use strict";
+// "use strict";
 
-import PushNotificationIOS from "@react-native-community/push-notification-ios";
+// import PushNotificationIOS from "@react-native-community/push-notification-ios";
 
-module.exports = {
-  component: PushNotificationIOS
-};
+// module.exports = {
+//   component: PushNotificationIOS
+// };
